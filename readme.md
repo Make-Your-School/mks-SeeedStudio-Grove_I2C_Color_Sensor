@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_I2C_Color_
 repo_prefix: "mks"
 repo_part: "Grove_I2C_Color_Sensor"
 embedded_example_file: "examples/Grove_I2C_Color_Sensor_minimal/Grove_I2C_Color_Sensor_minimal.ino"
-title: 'Farbsensor'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
